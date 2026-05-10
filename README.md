@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there👋, I'm Maulana
 
-<!--
-**Nakamura55/Nakamura55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT Student at UIN Malang who is passionate about technology, especially in game and web development.
 
-Here are some ideas to get you started:
+- 🎮 Unity Game Developer
+- 🌐 PHP Web Developer
+- ☕ Java & Arduino Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Currently Working On
+- Developing games using Unity
+- Learning modern web development with PHP
+- Improving programming and software development skills
+
+---
+
+## 🛠️ Tools & Technologies
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📫 How to Reach Me
+- GitHub: https://github.com/Nakamura55
+- Email: maulanaroyale46@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
